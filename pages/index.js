@@ -80,7 +80,7 @@ const Page = () => {
             improve my skills and knowledge.{' '}
           </Paragraph>
         <Box align = "center" my ={4}>
-            <NextLink href="https://drive.google.com/file/d/1PN4Cnt4W9D4nkZ4a3gH0VJVWd3t0aqSD/view?usp=sharing">
+            <NextLink href="https://drive.google.com/file/d/1E69vztbk4HVBcTIt_-rLmFUst52qdAPl/view?usp=sharing">
                 <Button rightIcon ={<ChevronRightIcon/>} colorScheme="teal">
                     My Resume
                 </Button>
