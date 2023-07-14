@@ -177,7 +177,6 @@ const Page = () => {
                 <Button
                   variant="ghost"
                   colorScheme="teal"
-                  // leftIcon = {<FootprintIcon />}
                 >
                   sroid_03
                 </Button>
